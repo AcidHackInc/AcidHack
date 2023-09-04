@@ -15,7 +15,7 @@
 
 ```
 
-Acid Hack is a Minecraft 1.20.1 utility mod for anarchy servers.
+Acid Hack is a Minecraft 1.20.1 utility mod for anarchy servers. Upgreded 3arthh4ck and GS++.
 
 ## Installing
 
@@ -103,7 +103,6 @@ Trails.
 Frames,
 Speed,
 Players.
-
 
 
 

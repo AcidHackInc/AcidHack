@@ -28,7 +28,7 @@ Do NOT install the jar that contains `sources`. That one contains the source cod
 
 ## Modules
 
-#### Combat
+### Combat
 
 Aimbot,
 Auto Crystal,
@@ -48,7 +48,7 @@ AutoMend,
 Criticals,
 AutoCity.
 
-#### Mics
+### Mics
 
 Announcer,
 ChatModifier,
@@ -64,7 +64,7 @@ Spammer,
 KillEffect.
 
 
-#### Movement
+### Movement
 
 Anchor,
 Blink,
@@ -76,7 +76,7 @@ Speed,
 Step,
 Sprint.
 
-#### Renders
+### Renders
 
 BlockHighlight,
 BreakESP,
@@ -98,7 +98,7 @@ Swing,
 Ambience,
 Trails.
 
-#### Hud
+### Hud
 
 Frames,
 Speed,
